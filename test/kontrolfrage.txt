@@ -1,0 +1,11 @@
+Kontrollaufgaben1:
+
+1. Wie können in Ihrer IDE Projekte angelegt werden?
+ - IDE öffnen
+ -File
+ -New projekt
+
+ 2-. Wie kann in Ihrer IDE die „Command Line“ gestartet werden?
+ -Terminal
+
+ Kontrollaufgaben2:
